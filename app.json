@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "scrollview",
+    "slug": "scrollview",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
